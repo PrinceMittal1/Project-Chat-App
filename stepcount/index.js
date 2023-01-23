@@ -1,4 +1,10 @@
 import { registerRootComponent } from 'expo';
+import { GoogleSignin } from '@react-native-google-signin/google-signin';
+
+
+GoogleSignin.configure({
+    webClientId: '217927509232-kua91c53n3glq515hphqll3k447cd490.apps.googleusercontent.com',
+  });
 
 import App from './App';
 

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "217927509232",
+    "project_id": "newproject-8bbdb",
+    "storage_bucket": "newproject-8bbdb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:217927509232:android:1d25e1d58bfe20ab830e35",
+        "android_client_info": {
+          "package_name": "com.princemi.stepcount"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "217927509232-kua91c53n3glq515hphqll3k447cd490.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCppj9LufVReyEqHgnWZPb6hPdF4cd3sA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "217927509232-kua91c53n3glq515hphqll3k447cd490.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
